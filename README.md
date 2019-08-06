@@ -29,8 +29,6 @@ The data set is collected from publicly available UCI Machine Learning repositor
 
 ### Why The Naive Bayes Model Works So Well
 
-~~~
-
 The Naive Bayes model works on the assumption that the features of the dataset are independent of each other — hence called Naive.
 
 This works well for bag-of-words models a.k.a text documents since:
@@ -40,5 +38,3 @@ This works well for bag-of-words models a.k.a text documents since:
 - the location of one word doesn’t depend on another word.
 
 Thus satisfying the independence assumption of the Naive Bayes model. Hence, it is most commonly used for text classification, sentiment analysis, spam filtering & recommendation systems.
-
-~~~
